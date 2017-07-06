@@ -77,8 +77,8 @@ target/
 *.swp
 
 # Caps
-*.pcapng
-*.pcap
+#*.pcapng
+#*.pcap
 *.eci
 *.ecp
 
